@@ -26,7 +26,7 @@ Ensure NlTK version: 3.7 is installed through Anacondor Navigator 2.1.4
 
 Access Python version: 3.9 through Spyder version: 5.1.5 
 
-Follow code instructions in A3.py <
+Follow code instructions in A3.py <https://github.com/sofiamuollo/my-first-repository/blob/f0f1f1084e5a2151e1bcb2f88c6fcb5e83c28068/A3.py>
 
 
 ## Files employed
