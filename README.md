@@ -20,9 +20,9 @@ Project is created with:
 ## Launch 
 To run this project, Download Anacondor Navigator 2.1.4 <https://github.com/sofiamuollo/my-first-repository/blob/9a91b9fd62bee0652583be334a2c2509d13d13a5/Anaconda-Navigator.app.zip> 
 
-Ensure Pandas version: 1.4.2 is installed through Anacondor Navigator 2.1.4
+Ensure Pandas version: 1.4.2 package is installed through Anacondor Navigator 2.1.4
 
-Ensure NlTK version: 3.7 is installed through Anacondor Navigator 2.1.4
+Ensure NlTK version: 3.7 package is installed through Anacondor Navigator 2.1.4
 
 Access Python version: 3.9 through Spyder version: 5.1.5 
 
