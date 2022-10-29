@@ -1,5 +1,5 @@
-## Project Staus 
-Code is incomplete and still in development
+## Project Status 
+Code for project is incomplete and still in development
 
 ## Table of Contents
 * [General information](#general-information)
