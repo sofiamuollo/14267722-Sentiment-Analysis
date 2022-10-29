@@ -1,3 +1,6 @@
+## Project Staus 
+Code is incomplete and still in development
+
 ## Table of Contents
 * [General information](#general-information)
 * [Technologies](#technologies)
@@ -6,9 +9,7 @@
 
 
 ## General information
-My project focuses on constructing code for a sentiment analysis on COVID-19 within three countries Australia, India, and Brazil. The system categorizes tweets into positive, negative, and neural categories, as well as calculating an overall compound score. 
-
-Project Staus: Code is incomplete and still in development 
+My project focuses on constructing code for a sentiment analysis on COVID-19 within three countries Australia, India, and Brazil. The system categorizes tweets into positive, negative, and neural categories, as well as calculating an overall compound score.  
 
 
 ## Technologies 
