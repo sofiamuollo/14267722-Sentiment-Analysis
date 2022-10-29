@@ -22,7 +22,7 @@ To run this project, Download Anacondor Navigator 2.1.4 <https://github.com/sofi
 
 Ensure Pandas version: 1.4.2 package is installed through Anacondor Navigator 2.1.4
 
-Ensure NlTK version: 3.7 package is installed through Anacondor Navigator 2.1.4
+Ensure Nltk version: 3.7 package is installed through Anacondor Navigator 2.1.4
 
 Access Python version: 3.9 through Spyder version: 5.1.5 
 
