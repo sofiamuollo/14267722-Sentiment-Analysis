@@ -14,12 +14,18 @@ My project focuses on constructing code for a sentiment analysis on COVID-19 wit
 
 ## Technologies 
 Project is created with:
-* Anacondor Navigater version: 2.1.4
+* Anacondor Navigator version: 2.1.4
 * Spyder version : 5.1.5
 
 ## Launch 
-To run this project, Download Anacondor Navigater 2.1.4 <https://github.com/sofiamuollo/my-first-repository/blob/9a91b9fd62bee0652583be334a2c2509d13d13a5/Anaconda-Navigator.app.zip> 
-and access Python 3.9 through Spyder 5.1.5
+To run this project, Download Anacondor Navigator 2.1.4 <https://github.com/sofiamuollo/my-first-repository/blob/9a91b9fd62bee0652583be334a2c2509d13d13a5/Anaconda-Navigator.app.zip> 
+
+Ensure Pandas version: 1.4.2 is installed through Anacondor Navigator 2.1.4
+
+Ensure NlTK version: 3.7 is installed through Anacondor Navigator 2.1.4
+
+Access Python version: 3.9 through Spyder version: 5.1.5 
+
 
 ## Files employed
 
