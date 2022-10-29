@@ -18,7 +18,8 @@ Project is created with:
 * Spyder version : 5.1.5
 
 ## Launch 
-To run this project, Download Anacondor Navigater 2.1.4 <Anaconda-Navigator.app.zip> and access Python 3.9 through Spyder 5.1.5
+To run this project, Download Anacondor Navigater 2.1.4 <https://github.com/sofiamuollo/my-first-repository/blob/9a91b9fd62bee0652583be334a2c2509d13d13a5/Anaconda-Navigator.app.zip> 
+and access Python 3.9 through Spyder 5.1.5
 
 ## Files employed
 
