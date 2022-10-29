@@ -31,7 +31,7 @@ Follow code script in A3.py <https://github.com/sofiamuollo/my-first-repository/
 
 ## Files employed
 
-Datafiles intented to use
+Datafiles intented to use:
 
 [BRAZIL.Tweets.csv](https://github.com/sofiamuollo/my-first-repository/files/9892577/BRAZIL.Tweets.csv) Brazil Tweets Dataframe 
 
